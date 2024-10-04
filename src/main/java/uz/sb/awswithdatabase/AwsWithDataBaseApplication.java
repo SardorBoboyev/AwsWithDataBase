@@ -16,6 +16,6 @@ public class AwsWithDataBaseApplication {
 
     @GetMapping("/aws")
     public String aws() {
-        return "This is my final aws, also connected to the database";
+        return "This is my final aws, also connected to the database. I've finished";
     }
 }
