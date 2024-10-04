@@ -10,7 +10,7 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/сheckout@v3
+        uses: actions/checkout@v3
 
       - name: Set up JDK 17
         uses: actions/checkout@v3  # Bu yerda "c" lotincha harf
